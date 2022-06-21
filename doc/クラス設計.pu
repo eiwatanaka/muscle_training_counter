@@ -23,7 +23,7 @@ class TrainingRepository {
   + void deleteTrainingItem(string Name)
 }
 note right of TrainingRepository::addTrainingItem
-  同じ名前は登録不可
+  同じ名前は登録不可とする
 end note
 
 class TrainingItem {
